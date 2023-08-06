@@ -1,11 +1,11 @@
 <h1 align="center">I'm <a href="https://github.com/Ghost7926">Ryan Voit<a><img src="https://github.com/Ghost7926/Img/blob/main/Wizard.gif" width="60px"/></h1>
 <Br>
-<h1>About Me! 😎</h1>
+<h1>About Me! 💀</h1>
 
 - 🏫: I'm a Senior at Grand Canyon University. 
 - 🔭: I’m currently working on creating scripts that relate to information security. 
 - 🌱: I’m currently studying Active Directory.
-- ⚡: In my free time, enjoy going golfing.
+- 🏌: In my free time, enjoy going golfing.
   
 <hr>
 <Br>
