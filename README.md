@@ -6,7 +6,6 @@
 - 🔭: I’m currently working on creating scripts that relate to information security. 
 - 🌱: I’m currently studying Active Directory.
 - 🏌: In my free time, enjoy going golfing.
-  
 <hr>
 <Br>
 <h1 align="center">Get in Touch! 📬</h1>
