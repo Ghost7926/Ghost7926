@@ -11,5 +11,5 @@
 <h1 align="center">Get in Touch! 📬</h1>
 <Br>
 <p align="center">
-<a href="https://www.linkedin.com/in/arya-manjaramkar" target="blank"><img align="center" src="https://github.com/Ghost7926/Img/blob/main/Ryan_Voit_badge.png" /></a> &nbsp;&nbsp;&nbsp;  <a href="mailto:aryagm01@gmail.com" target="blank"></a>
+<a href="https://www.linkedin.com/in/ryan-voit" target="blank"><img align="center" src="https://github.com/Ghost7926/Img/blob/main/Ryan_Voit_badge.png" /></a> &nbsp;&nbsp;&nbsp;  <a href="mailto:aryagm01@gmail.com" target="blank"></a>
 </p>
