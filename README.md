@@ -2,7 +2,7 @@
 <Br>
 <h1>About Me! 👻</h1>
 
-- 🏫: I'm a Senior at Grand Canyon University. 
+- 🏫: I'm a Senior at Grand Canyon University and TAS Intern at GuidePoint Security. 
 - 🔭: I’m currently working on creating scripts that relate to information security. 
 - 🌱: I’m currently studying Active Directory.
 - 🏌: In my free time, enjoy going golfing.
