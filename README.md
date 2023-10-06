@@ -4,7 +4,7 @@
 
 - 🏫: I'm a Senior at Grand Canyon University and TAS Intern at GuidePoint Security. 
 - 🔭: I’m currently working on creating scripts that relate to information security. 
-- 🌱: I’m currently studying Active Directory.
+- 🌱: I’m currently studying Active Directory and for the PNPT.
 - 🏌: In my free time, enjoy going golfing.
 <hr>
 <Br>
