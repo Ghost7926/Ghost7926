@@ -1,4 +1,4 @@
-<h1 align="center">I'm <a href="https://github.com/Ghost7926">Ryan Voit<a>, welcome to my GitHub!<img src="https://github.com/Ghost7926/Img/blob/main/Wizard.gif" width="60px"/></h1>
+<h1 align="center">I'm <a href="https://github.com/Ghost7926">Ryan Voit<a>, Welcome to my GitHub!<img src="https://github.com/Ghost7926/Img/blob/main/Wizard.gif" width="60px"/></h1>
 <Br>
 <h1>About Me! 👻</h1>
 
