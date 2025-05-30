@@ -2,7 +2,7 @@
 <Br>
 <h1>About Me! 👻</h1>
 
-- 🏫: TAS Analyst at GuidePoint Security. 
+- 🏫: Threat & Attack Simulation at GuidePoint Security. 
 - 🔭: I’m currently working on creating scripts that relate to information security. 
 - 🌱: I’m currently studying Active Directory and Internal Penetration Testing.
 - 🏌: In my free time, enjoy going golfing and gaming. 
