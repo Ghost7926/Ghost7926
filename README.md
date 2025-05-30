@@ -7,7 +7,7 @@
 - 🌱: I’m currently studying Active Directory and Internal Penetration Testing.
 - 🏌: In my free time, enjoy going golfing and gaming. 
 <hr>
-<Br>
+
 <h1 align="center">Get in Touch! 📬</h1>
 <Br>
 <p align="center">
